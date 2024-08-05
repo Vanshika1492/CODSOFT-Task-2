@@ -6,8 +6,9 @@ Ojective: Develop a command-line based To-Do List application in Python, enablin
 
 Output:  ![Screenshot (284)](https://github.com/user-attachments/assets/1e64f2d7-0083-4c86-bdfe-4b386cb194d1)
 
-        
-       ![Screenshot (285)](https://github.com/user-attachments/assets/016a0422-362d-4309-8a79-8b70b4329ad0)
+![Screenshot (285)](https://github.com/user-attachments/assets/ecd33a7c-ab6c-46c0-bd3f-6141e996715d)
+
+![Screenshot (286)](https://github.com/user-attachments/assets/893e7133-d06c-4fac-afed-ec586efe00b5)
 
 
-        ![Screenshot (286)](https://github.com/user-attachments/assets/9a611f09-c6cb-4c2d-bf71-1e4802e1a301)
+
